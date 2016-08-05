@@ -31,13 +31,13 @@
           <h5 class="header col s12 light">Finance Visuals</h5>
         </div>
         <div class="row center">
-          <a href="/dashboard.php" id="download-button" class="btn-large waves-effect waves-light teal lighten-1">View Dashboards</a>
+          <a href="https://yo2cypress01.ema.lilly.com/#/site/LillyUKHub/views/EuCanDigITalDashboard/Dashboard3?:iid=1" id="download-button" class="btn-large waves-effect waves-light teal lighten-1">View Dashboards</a>
         </div>
         <br><br>
 
       </div>
     </div>
-    <div class="parallax"><img src="background1.jpg" alt="Unsplashed background img 1"></div>
+    <div class="parallax"><img src="background2.jpg" alt="Unsplashed background img 1"></div>
   </div>
 
 
@@ -78,16 +78,6 @@
   </div>
 
 
-  <div class="parallax-container valign-wrapper">
-    <div class="section no-pad-bot">
-      <div class="container">
-        <div class="row center">
-          <h5 class="header col s12 light">Providing Tableau data visuals</h5>
-        </div>
-      </div>
-    </div>
-    <div class="parallax"><img src="background2.jpg" alt="Unsplashed background img 2"></div>
-  </div>
 
 
 
