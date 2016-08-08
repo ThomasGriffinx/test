@@ -24,7 +24,7 @@
     <div class="section no-pad-bot">
       <div class="container">
         <br><br>
-        <h1 class="header center teal-text text-lighten-2">BUIT EuCan Data Insights</h1>
+        <h1 class="header center white-text text-lighten-2">BUIT EuCan Data Insights</h1>
         <div class="row center">
           <h5 class="header col s12 light">Finance Visuals</h5>
         </div>
