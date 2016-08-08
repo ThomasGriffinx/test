@@ -51,7 +51,7 @@
             <h2 class="center brown-text"><i class="material-icons">flash_on</i></h2>
             <h5 class="center">Visuals</h5>
 
-            <p class="light">Making use of Heroku, Tableau and Force we have provided a modern visualisation solution to organising data from multiple data sources</p>
+            <p class="light">Making use of OpenShift and Tableau we have provided a modern visualisation solution to organising data from multiple data sources</p>
           </div>
         </div>
 
