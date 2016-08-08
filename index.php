@@ -14,9 +14,7 @@
   <nav class="white" role="navigation">
     <div class="nav-wrapper container">
       <a id="logo-container" href="#" class="brand-logo">EuCan</a>
-      <ul class="right hide-on-med-and-down">
-        <li><a href="#">Data Reporting</a></li>
-      </ul>
+    
 
       <a href="#" data-activates="nav-mobile" class="button-collapse"><i class="material-icons">Menu</i></a>
     </div>
