@@ -29,7 +29,7 @@
           <h5 class="header col s12 light">Finance Visuals</h5>
         </div>
         <div class="row center">
-          <a href="https://yo2cypress01.ema.lilly.com/#/site/LillyUKHub/views/EuCanDigITalDashboard/Dashboard3?:iid=1" id="download-button" class="btn-large waves-effect waves-light teal lighten-1">View Dashboards</a>
+          <a href="https://yo2cypress01.ema.lilly.com/t/LillyUKHub/views/EuCanDigITalDashboard/Dashboard3?:embed=y&:showShareOptions=true&:display_count=no&:showVizHome=no" id="download-button" class="btn-large waves-effect waves-light teal lighten-1">View Dashboards</a>
         </div>
         <br><br>
 
